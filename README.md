@@ -26,6 +26,6 @@ This project demonstrates how to create a globalization-enabled application usin
 To get started with this project, first clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/globalization-program.git
+git clone https://github.com/Sandeep131999/Globalization.git
 cd globalization-program
 
