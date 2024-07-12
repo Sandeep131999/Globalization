@@ -1,0 +1,9 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore solution files (if needed)
+*.sln

@@ -1,0 +1,9 @@
+﻿@*/****************************************@
+@*Import necessary namespaces and services for localization and tag helpers *@
+
+@using Try
+@using Try.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<Label> labelLocalizer
+@inject IStringLocalizer<Message> messageLocalizer

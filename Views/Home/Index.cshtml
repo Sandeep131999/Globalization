@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@section scripts {
+	<script type="text/javascript">
+		var message = '@Html.Raw(messageLocalizer["Check"])';
+    </script>
+}
+<div class="text-center">
+    <h1 class="display-4">@labelLocalizer["Welcome"]</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* <a href="/Home/ChangeLanguage?culture=en-US&returnUrl=@Url.Action("Index", "Home")">English</a> *@
+@* <a href="/Home/ChangeLanguage?culture=ja-JP&returnUrl=@Url.Action("Index", "Home")">Japanese</a> *@
+
+<a  asp-controller="Home" asp-action="viewRegisterPage">@labelLocalizer["Register"]</a>
+<button id="btnCheck">Check</button>
