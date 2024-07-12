@@ -1,7 +1,7 @@
 # Globalization Program with .NET Core 8.0 and MDB Bootstrap
 
 [![.NET Core](https://img.shields.io/badge/.NET_Core-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
-[![Build Status](https://img.shields.io/github/workflow/status/yourusername/globalization-program/CI)](https://github.com/yourusername/globalization-program/actions)
+[![C#](https://img.shields.io/badge/C%23-red.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
 [![License](https://img.shields.io/github/license/yourusername/globalization-program)](https://github.com/yourusername/globalization-program/blob/main/LICENSE)
 
 ## Overview
@@ -11,7 +11,6 @@ This project demonstrates how to create a globalization-enabled application usin
 ## Features
 
 - **Multi-language Support**: Easily switch between different languages.
-- **Regional Settings**: Adapt content and format based on user region.
 - **MDB Bootstrap Integration**: Utilize Material Design Bootstrap (MDB) for a modern and responsive UI.
 
 ## Prerequisites
@@ -24,6 +23,9 @@ This project demonstrates how to create a globalization-enabled application usin
 
 ### Clone the Repository
 
+To get started with this project, first clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/globalization-program.git
 cd globalization-program
+
