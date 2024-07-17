@@ -2,7 +2,6 @@
 
 [![.NET Core](https://img.shields.io/badge/.NET_Core-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
 [![C#](https://img.shields.io/badge/C%23-red.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
-[![License](https://img.shields.io/github/license/yourusername/globalization-program)](https://github.com/yourusername/globalization-program/blob/main/LICENSE)
 
 ## Overview
 
